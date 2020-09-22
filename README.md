@@ -1,7 +1,7 @@
-## 이십삼세 코린이👶🏻
 ## 잔디밭 가꾸는중🌷🌹🌻🍄🌳
 
 - 🌱 I’m currently learning
+- 코린이👶
 <!--
 **hyeonn/hyeonn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
