@@ -1,6 +1,6 @@
 ## 잔디 기르는 중👩‍🌾 <br> 🌷🌹🌻🍄🌳 
 
-- 🌱 I’m currently learning
+- 🌱 I’m currently learning 🌱
 <!--
 **hyeonn/hyeonn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
