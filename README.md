@@ -1,6 +1,7 @@
-## 잔디 가꾸기👩‍🌾 <br> 🌷🌹🌻🍄🌳 
+## 초보 가드너👩‍🌾 <br> 🌷🌹🌻🍄🌳 
 
 - 🌱 I’m currently learning🌱
+- 잔디 가꾸기!
 <!--
 **hyeonn/hyeonn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
