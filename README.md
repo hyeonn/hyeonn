@@ -2,6 +2,8 @@
 
 - 🌱 I’m currently learning🌱
 - 잔디 가꾸기!
+![KakaoTalk_20210610_144324154](https://user-images.githubusercontent.com/34808817/121471356-7cef5a00-c9fa-11eb-9d36-121b578afcad.jpg)
+
 <!--
 **hyeonn/hyeonn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
